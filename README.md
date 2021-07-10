@@ -5,7 +5,7 @@ Hello friend [<sup>1</sup>](#1), my name is Austin Scola.
 ## About Me
 - I'm a [Bostonian](https://duckduckgo.com/?q=bostonian+meaning).
 - I ran competitively for around 10 years but I am now _retired_ from running
-- I worked at Boston Dynamics for 2 years
+- I worked at [Boston Dynamics](https://www.bostondynamics.com/) for 2 years
 - I am now starting up a company
 
 ## What I am working on
