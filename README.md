@@ -1,6 +1,6 @@
 # Austin Scola
 
-Hello friend, my name is Austin Scola.
+Hello friend [<sup>1</sup>](#1), my name is Austin Scola.
 
 ## About Me
 - I'm a [Bostonian](https://duckduckgo.com/?q=bostonian+meaning).
@@ -42,3 +42,9 @@ code which helps software engineers (and other humans) write code; that is what 
 
 This pursuit has the added benefit that the tools can be used to improve themselves. Let that sink
 in for a second...
+
+## Footnotes
+
+<a class="anchor" id="1"></a>1. "Hello, friend" is a reference to the TV show _Mr. Robot_. These are
+the first words spoken by the main character Elliot in the first episode. And the line itself is an
+obvious reference to "Hello, World" programs.
