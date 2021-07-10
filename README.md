@@ -15,7 +15,7 @@ Currently, I am working on _solving_ software engineering. Let me explain:
 First, let us examine that software engineering is a rather young field (around 80 years old). For
 comparison:
 
-| Thing              | Orders of Magnitude older than software engineering |
+| Thing              | Orders of Magnitude Older than Software Engineering |
 |--------------------|-----------------------------------------------------|
 | Human Civilization | 2                                                   |
 | Homo Sapiens       | 5                                                   |
