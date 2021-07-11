@@ -30,10 +30,9 @@ This broad pursuit aligns with my policy for selecting actions for the state-mac
 
 ## State-Machine Policy
 
-If life is a state-machine, my policy is to try to select actions which have larger higher derivates of change and productive value. (Thought it is true that the number of derivates is somewhat bounded by the finiteness of human life-spans and the ultimate heat death of the universe.)
-
-When it comes to software engineering, software engineers can write code which massively helps subsets of humans. While I find that amazing and enticing, the next derivative of that is to write code which helps software engineers (and other humans) write code; that is what I aim to do.
-
-This pursuit has the added benefit that the tools can be used to improve themselves. Let that sink in for a second...
+If life is a state-machine, then currently, my policy for action selection biases the following:
+- larger higher derivates of change
+- strategic risk embracement
+- a simulated annealing style approach to balancing the exploration vs. exploitation tradeoff
 
 [1]: https://github.com/AustinScola/AustinScola/blob/master/REFERENCES.md#hello-friend
