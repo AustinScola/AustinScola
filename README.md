@@ -24,9 +24,9 @@ Because software engineering is so young, this leads me to believe that we have 
 
 So that is what I am working on.
 
-Yes, it's a really broad goal. So I am starting with one subset of it and will gradually expand the set. The specifics of the project occupying the majority of my waking hours I am not quite ready to share yet.
+Yes, it's a really broad goal. To start with, I am tackling one subset of that goal and will gradually expand the set. The specifics of the project occupying the majority of my waking hours I am not quite ready to share yet.
 
-This broad pursuit aligns with my policy for selecting actions for the state-machine that is life too.
+The broad pursuit aligns with my policy for selecting actions for the state-machine that is life too.
 
 ## State-Machine Policy
 
