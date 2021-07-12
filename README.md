@@ -8,7 +8,7 @@
 - I worked at [Boston Dynamics][3] for 2 years.
 - I am now starting up a company.
 
-## What I am working on
+## What I Am Working On
 
 Currently, I am working on _solving_ software engineering. Let me explain:
 
