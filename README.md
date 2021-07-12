@@ -30,7 +30,7 @@ The broad pursuit aligns with my policy for selecting actions for the state-mach
 
 ## State-Machine Policy
 
-If life is a state-machine, then currently, my policy for selecting actions applies a biases towards the following:
+If life is a state-machine, then currently, my policy for selecting actions applies a bias towards the following:
 - larger higher derivates of change
 - strategic risk embracement
 - a simulated annealing style approach to the exploration vs. exploitation tradeoff
