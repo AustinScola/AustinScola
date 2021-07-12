@@ -3,9 +3,9 @@
 [Hello friend][1], my name is Austin Scola.
 
 ## About Me
-- I'm a [Bostonian](https://duckduckgo.com/?q=bostonian+meaning).
-- I ran competitively for around 10 years but I am now _retired_ from running.
-- I worked at [Boston Dynamics](https://www.bostondynamics.com/) for 2 years.
+- I'm a [Bostonian][2].
+- I ran competitively for around 10 years, but I am now _retired_ from running.
+- I worked at [Boston Dynamics][3] for 2 years.
 - I am now starting up a company.
 
 ## What I am working on
@@ -24,14 +24,17 @@ Because software engineering is so young, this leads me to believe that we have 
 
 So that is what I am working on.
 
-This pursuit aligns with my policy for selecting actions for the state-machine that is life too.
+Yes, it's a really broad goal. To start with, I am tackling one subset of that goal and will gradually expand the set. The specifics of the project occupying the majority of my waking hours I am not quite ready to share yet.
+
+The broad pursuit aligns with my policy for selecting actions for the state-machine that is life too.
 
 ## State-Machine Policy
 
-If life is a state-machine, my policy is to try to select actions which have larger higher derivates of change and productive value. (Thought it is true that the number of derivates is somewhat bounded by the finiteness of human life-spans and the ultimate heat death of the universe.)
-
-When it comes to software engineering, software engineers can write code which massively helps subsets of humans. While I find that amazing and enticing, the next derivative of that is to write code which helps software engineers (and other humans) write code; that is what I aim to do.
-
-This pursuit has the added benefit that the tools can be used to improve themselves. Let that sink in for a second...
+If life is a state-machine, then currently, my policy for action selection biases the following:
+- larger higher derivates of change
+- strategic risk embracement
+- a simulated annealing style approach to balancing the exploration vs. exploitation tradeoff
 
 [1]: https://github.com/AustinScola/AustinScola/blob/master/REFERENCES.md#hello-friend
+[2]: https://duckduckgo.com/?q=bostonian+meaning
+[3]: https://www.bostondynamics.com/
