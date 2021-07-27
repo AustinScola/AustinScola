@@ -24,9 +24,11 @@ Because software engineering is so young, this leads me to believe that we have 
 
 So that is what I am working on.
 
-Yes, it's a really broad goal. To start with, I am tackling one subset of that goal and will gradually expand the set. The specifics of the project occupying the majority of my waking hours I am not quite ready to share yet.
+Yes, it's a really broad goal. To start with, I am tackling one subset of that goal and will gradually expand the set.
 
-The broad pursuit aligns with my policy for selecting actions for the state-machine that is life too.
+The project occupying the majority of my waking hours right now is [Arborista][4]. Arborista is a tree transformation tool. It has many use cases but the initial use case that I am working on is code refactoring. It is freely available for installation on public GitHub repositories and currently supports Python 3 code. Try it out and let me know what you think!
+
+The broad pursuit of _solving_ software engineering aligns with my policy for selecting actions for the state-machine that is life too.
 
 ## State-Machine Policy
 
@@ -38,3 +40,4 @@ If life is a state-machine, then currently, my policy for selecting actions appl
 [1]: https://github.com/AustinScola/AustinScola/blob/master/REFERENCES.md#hello-friend
 [2]: https://duckduckgo.com/?q=bostonian+meaning
 [3]: https://www.bostondynamics.com/
+[4]: https://arborista.dev/
